@@ -33,7 +33,7 @@ N/A
 https://claudiof9.github.io/Password-Generator-Website/
 
 ## Screenshot
-Incoming
+![Password-Generator-Screenshot](https://user-images.githubusercontent.com/119876939/213002967-b6d3883d-a43b-4eaf-841f-0885735198ae.png)
 
 ## Credits
 
