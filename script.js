@@ -116,12 +116,19 @@ function getPasswordOptions() {
     return { passLength, lowercase, uppercase, numeric, special };
 }
 // Called and tested function to see if it working
-getPasswordOptions();
-console.log(getPasswordOptions());
+// getPasswordOptions();
+// console.log(getPasswordOptions());
 
 
 // // Function for getting a random element from an array - 
-// function getRandom(arr) {
+function getRandom(arr) {
+  return arr[Math.floor(Math.random() * arr.length)];
+}
+
+//calling the function
+
+console.log(getRandom(["snorker", "bird", "giraffe", "cat", "dog"]));
+
 
 // }
 
